@@ -2,7 +2,7 @@ MDPage
 ======
 
 This is a tiny PHP script that renders a Markdown file as a static HTML page.
-In fact this is just a wrapper of [PHP Markdown Extra](https://michelf.ca/projects/php-markdown/extra/) using a CSS provided by [Bootswatch](http://bootswatch.com)) and [MathJax](http://www.mathjax.org/) via CDN.
+In fact this is just a wrapper of [PHP Markdown Extra](https://michelf.ca/projects/php-markdown/extra/) using a CSS provided by [Bootswatch](http://bootswatch.com) and [MathJax](http://www.mathjax.org/) via CDN.
 
 You can use this to build a *one-page* site for small projects quickly.
 
